@@ -5,7 +5,7 @@ name = "tableau"
 version = "@toml.version@"
 license = ["Apache-2.0"]
 authors = ["Ballerina"]
-keywords = ["# TODO: Add keywords", "Vendor/Tableau", "Area/Analytics", "Type/Connector"]
+keywords = ["Data Visualization", "Business Intelligence", "Vendor/Tableau", "Area/Analytics", "Type/Connector"]
 icon = "icon.png" 
 repository = "https://github.com/ballerina-platform/module-ballerinax-tableau"
 
