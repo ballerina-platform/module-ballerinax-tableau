@@ -2,6 +2,14 @@
 
 [//]: # (TODO: Add overview mentioning the purpose of the module, supported REST API versions, and other high-level details.)
 
+
+### Key Features
+
+- Manage Tableau Server and Tableau Online resources
+- Publish and update workbooks and data sources
+- Manage users, groups, and permissions
+- Access views and dashboard data programmatically
+
 ## Setup guide
 
 [//]: # (TODO: Add detailed steps to obtain credentials and configure the module.)
