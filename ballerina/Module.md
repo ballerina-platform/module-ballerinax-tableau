@@ -1,6 +1,15 @@
 ## Overview
 
-[//]: # (TODO: Add overview mentioning the purpose of the module, supported REST API versions, and other high-level details.)
+[Tableau](https://www.tableau.com/) is a powerful business intelligence and data visualization tool that helps organizations see and understand their data. It provides intuitive ways to explore data, create interactive dashboards, and share insights across the enterprise.
+
+The Tableau connector offers APIs to connect and interact with the Tableau REST API, enabling seamless data integration and management within Tableau environments.
+
+### Key Features
+
+- Connect and interact with Tableau REST API endpoints
+- Manage workbooks, datasources, and projects
+- Automate administrative tasks and content management
+- Integration with Tableau Server and Tableau Cloud
 
 ## Setup guide
 
